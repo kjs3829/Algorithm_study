@@ -35,6 +35,7 @@
 ## 스터디원 Repository
 * [highright96](https://github.com/highright96/algorithm)
 * [JunSeong](https://github.com/kjs3829/Algorithm_study)
+* [landturtler](https://github.com/landturtler/2020_Algorithm)
 
 ## 문제집
 * [tony9402님 코딩테스트 대비 문제집](https://github.com/tony9402/baekjoon)
